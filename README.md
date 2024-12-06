@@ -10,4 +10,4 @@
 - Redesigning my portfolio site, [jefftbyrd.com](https://jefftbyrd.com/)
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,postgres,nodejs,sass,ps,ableton,p5js,vscode,ts,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,postgres,nodejs,sass,ps,ableton,p5js,vscode,ts,pr)]
