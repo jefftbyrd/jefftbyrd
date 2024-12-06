@@ -9,4 +9,5 @@
 - New radio-play/Hörspiel series "Mental Theater" -- words by [Michael Jeffrey Lee](https://www.michaeljeffreylee.com/), sounds by ME
 - Redesigning my portfolio site, [jefftbyrd.com](https://jefftbyrd.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### My skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,postgres,nodejs,sass,ps,ableton,p5js,vscode,ts,pr)](https://skillicons.dev)
