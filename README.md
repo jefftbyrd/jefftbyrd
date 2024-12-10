@@ -1,7 +1,7 @@
 # Hello! Jeff T Byrd here.
 
 ## Please check out:
-- [Earthsong](https://github.com/jefftbyrd/Earthsong)
+- [Earthsong](https://github.com/jefftbyrd/Earthsong) -- My final project for the UpLeveled Full Stack Bootcamp. An application for exploring the world through sound.
 - [Budokan Boys](https://budokanboys.club/) -- my main music project
 
 ## What I'm currently up to:
