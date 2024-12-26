@@ -2,6 +2,7 @@
 
 ## Please check out:
 - [Earthsong](https://github.com/jefftbyrd/Earthsong) -- My final project for the UpLeveled Full Stack Web Development Program. An application for exploring the world through sound.
+- [Vector](https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store) -- an online virus shop built with Next.js
 - [Budokan Boys](https://budokanboys.club/) -- My main music project
 
 ## What I'm currently up to:
