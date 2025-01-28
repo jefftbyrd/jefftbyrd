@@ -2,7 +2,7 @@
 
 ## Check out some recent projects:
 - [Earthsong](https://github.com/jefftbyrd/Earthsong) -- My final project for the UpLeveled Full Stack Web Development Program. An application for exploring the world through sound.
-- [Vector](https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store) -- an online virus shop built with Next.js
+- [Vector](https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store) -- An online virus shop built with Next.js
 - [Goodwater, Alabama 1982 (Official Music Video)](https://youtu.be/hWW_Cf_vfzY?si=NzinYFRXJ4VEeHWg) -- Just released this music video for a track from my album "Nighty Night".
 - [Budokan Boys](https://budokanboys.club/) -- My main music project
 
