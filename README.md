@@ -10,7 +10,6 @@
 ## What I'm currently up to:
 - Freelancing as a web developer.
 - Working on a new radio-play/Hörspiel series "Mental Theater" -- words by [Michael Jeffrey Lee](https://www.michaeljeffreylee.com/), sounds by me
-- Redesigning my portfolio site, [jefftbyrd.com](https://jefftbyrd.com/)
 - Learning SuperCollider
 
 ## My skills:
